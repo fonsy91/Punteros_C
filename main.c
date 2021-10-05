@@ -24,7 +24,7 @@ int main(int argc, char const *argv[]){
 	printf("\t2.Punteros y arrays de datos.\n");
 	printf("\n");
 	arrays();
-	
+	printf("\n");
 
 
 
