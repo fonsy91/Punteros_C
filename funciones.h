@@ -3,5 +3,6 @@
 //algunas operaciones con punteros 
 void operaciones();
 void arrays();
+void cadenas();
 
 

@@ -25,6 +25,10 @@ int main(int argc, char const *argv[]){
 	printf("\n");
 	arrays();
 	printf("\n");
+	printf("\t3.Punteros a cadenas de caracteres.\n");
+	printf("\n");
+	cadenas();
+	
 
 
 
